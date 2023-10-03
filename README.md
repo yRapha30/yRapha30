@@ -1,10 +1,10 @@
-### é o cassio 👋
+### é o cassio 🔥
 
 [![Blog](https://img.shields.io/website?label=ProjetoGambot.com&style=for-the-badge&url=https://ProjetoGambot.com/)](https://3liels.github.io/Projeto-Gambot/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGXI9PGl5U2d1xxMI96zalg)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
-![Rapha GitHub stats](https://github-readme-stats.vercel.app/api?username=yRapha30&show_icons=true&theme=onedark&count_private=true)
+![Rapha GitHub stats](https://github-readme-stats.vercel.app/api?username=yRapha30&show_icons=true&theme=highcontrast&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
