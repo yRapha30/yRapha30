@@ -7,7 +7,7 @@
 ![Rapha GitHub stats](https://github-readme-stats.vercel.app/api?username=yRapha30&show_icons=true&theme=highcontrast&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yRapha30&theme=highcontrast)
 <img height="200" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif"/>
-<img height="200" src="[https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif](https://i.pinimg.com/originals/2a/bc/30/2abc30e8edddb36244d76934fcdd005b.gif)"/>
+<img height="200" src="https://i.pinimg.com/originals/2a/bc/30/2abc30e8edddb36244d76934fcdd005b.gif"/>
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
